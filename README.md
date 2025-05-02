@@ -1,10 +1,46 @@
-# Getting Started with Create React App
+# 🚗 Android-Based Carpooling System for Sustainable Urban Transportation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Android application designed to promote carpooling among commuters by providing a smart platform for ride sharing. The app connects drivers and passengers traveling similar routes, aiming to reduce traffic congestion, fuel consumption, and environmental impact.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📱 Features
+
+- 🔐 User authentication (login/register)
+- 🚘 Drivers can post ride details (location, time, seats)
+- 🧭 Passengers can search and book nearby rides
+- 📍 Google Maps integration for route and location selection
+- 🔄 Booking confirmation, cancellation, and ride updates
+- 📢 Notification system for ride confirmations and alerts
+- ⭐ Ride rating and feedback system (optional)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Platform:** Android (Java / Kotlin)
+- **Backend:** Firebase (Authentication, Realtime Database)
+- **APIs Used:** Google Maps API, GeoLocation API
+- **Tools:** Android Studio, Firebase Console
+
+---
+
+## 🌐 Use Cases
+
+- Daily office or college commutes
+- Intercity travel coordination
+- Event-based ride sharing (conferences, weddings)
+- Last-mile ride connectivity
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/carpooling-app.git
+
 
 ### `npm start`
 
